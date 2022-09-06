@@ -1,9 +1,9 @@
 ### Hi👋 I'm Garam :)  
 
-![Garam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garam&show_icons=true&theme=calm) 
+![Garam's GitHub stats](https://github-readme-stats.vercel.app/api?username=songgaram&show_icons=true&theme=calm) 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrn29&layout=compact&hide=jupyter%20notebook&langs_count=6" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgaram&layout=compact&hide=jupyter%20notebook&langs_count=6" />
 
 ### 🛠️ Tech Stack 🛠️      
 
