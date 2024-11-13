@@ -17,5 +17,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <br>
 <br>
 
-### 🌱 MY 🌱 <br>
-![snake gif](https://github.com/songgaram/songgaram/blob/output/github-contribution-grid-snake.svg)
+### 🌱 MY PET 🌱 <br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/songgaram"
+  width="600"
+  height="300"
+/>
+</a>
